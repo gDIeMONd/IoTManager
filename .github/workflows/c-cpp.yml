@@ -30,6 +30,13 @@ jobs:
       with:
         name: firmware
         path: |
+          .pio/build/esp8266_4mb/firmware.bin
+          .pio/build/esp8266_4mb/littlefs.bin
           .pio/build/esp8266_1mb/firmware.bin
           .pio/build/esp8266_1mb/littlefs.bin
-          
+          .pio/build/esp8266_1mb_ota/firmware.bin
+          .pio/build/esp8266_1mb_ota/littlefs.bin
+          .pio/build/esp8285_1mb/firmware.bin
+          .pio/build/esp8285_1mb/littlefs.bin
+          .pio/build/esp8285_1mb_ota/firmware.bin
+          .pio/build/esp8285_1mb_ota/littlefs.bin
