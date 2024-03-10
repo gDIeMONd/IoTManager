@@ -40,3 +40,21 @@ jobs:
           .pio/build/esp8285_1mb/littlefs.bin
           .pio/build/esp8285_1mb_ota/firmware.bin
           .pio/build/esp8285_1mb_ota/littlefs.bin
+          .pio/build/esp32_4mb/firmware.bin
+          .pio/build/esp32_4mb/littlefs.bin
+          .pio/build/esp32_4mb/partitions.bin  
+          .pio/build/esp32_4mb3f/firmware.bin
+          .pio/build/esp32_4mb3f/littlefs.bin
+          .pio/build/esp32_4mb3f/partitions.bin
+          .pio/build/esp32cam_4mb/firmware.bin
+          .pio/build/esp32cam_4mb/littlefs.bin
+          .pio/build/esp32cam_4mb/partitions.bin
+          .pio/build/esp32s2_4mb/firmware.bin
+          .pio/build/esp32s2_4mb/littlefs.bin
+          .pio/build/esp32s2_4mb/partitions.bin
+          .pio/build/esp32s3_16mb/firmware.bin
+          .pio/build/esp32s3_16mb/littlefs.bin
+          .pio/build/esp32s3_16mb/partitions.bin
+          .pio/build/esp32c3m_4mb/firmware.bin
+          .pio/build/esp32c3m_4mb/littlefs.bin
+          .pio/build/esp32c3m_4mb/partitions.bin
